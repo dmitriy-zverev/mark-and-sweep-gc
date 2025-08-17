@@ -1,4 +1,4 @@
-# Mark and Sweep Garbage Collector (GC)
+# Mark and Sweep Garbage Collector
 Basic garbage collector for non-existing language SnekLang
 
 ## Purpose of this project
