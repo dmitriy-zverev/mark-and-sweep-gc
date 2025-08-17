@@ -1,4 +1,4 @@
-# mark-and-sweep-gc
+# Mark and Sweep Garbage Collector (GC)
 Basic garbage collector for non-existing language SnekLang
 
 ## Purpose of this project
@@ -9,5 +9,6 @@ This version of garbage collector uses the Mark and Sweep algorithm where we sto
 The code is no good for usage. It is an educational project.
 
 ## Certificate for completion
+<img width="915" height="558" alt="bootdev_certificate" src="https://github.com/user-attachments/assets/61c5783e-7a30-4360-99b8-66625a5b7f44" />
 
 
